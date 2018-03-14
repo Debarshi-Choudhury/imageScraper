@@ -1,0 +1,1 @@
+This is the folder in which the scraped images are stored.
